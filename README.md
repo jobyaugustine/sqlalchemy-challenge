@@ -20,6 +20,20 @@ Station Analysis with the observation details is done.
  - Stations
  - Top Observations
  - Minimum temperature, the average temperature, and the max temperature for a given start or start-end range.
+ ## Bonus Question
+
+ ### Temperature Analysis I
+
+  Created data frame for temperature analysis for June and December.
+
+   Converted date column format from string to datetime.
+
+   Set the date column as the DataFrame index
+
+ Dropped the date column.
+
+ Found the average temperature in June and for December.
+
 
  
 
